@@ -5,3 +5,5 @@ Repository for progtech source codes
 most is
 
 írtam valamit intellijben
+ezt is intellij-ben írtam
+
